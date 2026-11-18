@@ -1,4 +1,8 @@
-# trend-collectorB-web-2611 릴리스 노트
+# trendB-AI-2611 릴리스 노트
+
+## 2026-11-18 · 저장소 이름 변경
+
+- 저장소 이름을 `trend-collectorB-AI-2611`에서 `trendB-AI-2611`로 바꿨습니다.
 
 ## 2026-11-13 · 처음 만듦
 
